@@ -76,8 +76,8 @@ function writeToCSV(dateCollection: any) {
         a.click();
 }
 
-var username = "ameyb88";
-var token = "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";
+var username = "fakeuser"; // this is a fake name
+var token = "ghp_HNDA2SR7hUg2JL0ro1CG8ozYe0sEnH1fIuMv"; // this is fake token
 getUserCommits(username, token);
 
 
